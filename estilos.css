@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+    background-color: #B0EFEA;
+    border: thick solid #787DDC;
+    color: #000000;
+}
+h1 {
+    color: #F9171B;
+    background-color: #B7E5A7;
+    border-color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+table {
+    background-color: #80E996;
+    color: #000000;
+    border: thick dotted #FFE783;
+}
